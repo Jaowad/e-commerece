@@ -1,0 +1,34 @@
+/* override css */
+
+.bg-lights{
+  background-color: #FFD800;
+}
+
+.margin-top-20{
+  margin-top: 20px;
+}
+
+.feature-img{
+  height: 200px;
+}
+
+.feature-card{
+  height: 400px;
+}
+
+.feature-card-title{
+  height: 60px;
+}
+
+.feature-btn{
+  position:absolute;
+  margin-bottom: auto;
+}
+
+.footer-bottom{
+  padding: 15px;
+  margin-top: 50px;
+  background-color: #FFD800;
+}
+
+/* overwrite css */
